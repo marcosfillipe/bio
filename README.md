@@ -1,7 +1,7 @@
 ## Cursos
 
 <div align="center">
-<text><strong>Portifólio de Cursos</strong><text>
+<text><strong>**Portifólio de Cursos**</strong><text>
 </div>
   
 ---
