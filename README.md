@@ -6,7 +6,7 @@
   
 ---
 
-<img src="./img/rocketseatroxa.jpg" alt="Trilha Ignite" width="100%">
+<img src="./img/rocketseatroxa.png" alt="Trilha Ignite" width="100%">
 
 ---
   
