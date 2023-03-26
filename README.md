@@ -9,7 +9,7 @@
 
 ## **Cursos**
 
-<img src="./img/rocketseat.jpg" alt="Trilha Ignite" width="100%">
+<img src="./img/rocketseat.jpg" alt="Trilha Ignite" width="100%" height="250px">
 
 ---
   
