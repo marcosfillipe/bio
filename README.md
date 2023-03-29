@@ -1,13 +1,11 @@
 
----
-
 <div align="center">
-<text><strong>Portifólio Projeto, Cursos e Certificados</strong><text>
+<text><strong>Portifólio de Projetos, Cursos e Certificados</strong><text>
 </div>
 
 ---
 
-## **Portifólio**
+## **Portifólio de Projetos**
 
 ---
 
