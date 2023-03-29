@@ -5,12 +5,12 @@
 
 ---
 
-## **Portifólio de Projetos**
+## **Portifólio de Projetos: **
 
 ---
 
 
-## **Cursos**
+## **Cursos: **
 
 <img src="./img/rocketseat.jpg" alt="Trilha Ignite" width="100%" height="300px">
 
@@ -20,6 +20,6 @@
 
 ---
 
-## **Certificados**
+## **Certificados: **
 
 ---
