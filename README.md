@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-<text><strong>Portifólio de Cursos e Certificados</strong><text>
+<text><strong>Portifólio Projeto, Cursos e Certificados</strong><text>
 </div>
 
 ---
