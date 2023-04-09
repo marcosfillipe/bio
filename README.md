@@ -7,6 +7,8 @@
 
 ## **Portifólio de Projetos**:
 
+[**Portifólio**](https://night-glitter-fd8.notion.site/Marcos-Fillipe-Portfolio-a316c2876b394c948a2badf151c323da)
+
 ---
 
 
@@ -15,7 +17,7 @@
 <img src="./img/rocketseat.jpg" alt="Trilha Ignite" width="100%" height="300px">
 
   
-- **Node**: <a href="https://github.com/marcosfillipe/nodejs2022">NodeJs - Trilha 2021 - 2022</a> 
+- **Node**: [**NodeJs - Trilha 2021 - 2022**](https://github.com/marcosfillipe/nodejs2022)
 
 ---
 
