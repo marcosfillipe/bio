@@ -1,4 +1,3 @@
-
 <div align="center">
 <text><strong>Portifólio de Projetos, Cursos e Certificados</strong><text>
 </div>
@@ -23,4 +22,4 @@
 
 ## **Certificados**:
 
----
+---  
